@@ -1,3 +1,5 @@
+//To find even number and its addtion
+
 package javaApp;
 
 import java.util.Scanner;
