@@ -1,4 +1,4 @@
-//To find even number and its addtion
+//To find even number and its addtion. Commented by Anand
 
 package javaApp;
 
