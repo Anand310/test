@@ -1,5 +1,6 @@
 //To find even number and its addtion. Commented by Anand
 //practising the rever command in git repository
+//2nd commit ---- to revert one by one demo
 
 package javaApp;
 
